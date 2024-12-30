@@ -1,0 +1,6 @@
+# 2024支付宝直付通,微信收付通,可视化进件,平台分帐,运营系统,API接口兼容易支付
+
+ONE聚合支付运营平台是一套适合互联网企业使用的支付系统，支持商户进件,平台分帐,API接入（兼容彩虹易支付）。已对接微信收付通，支付宝直付通。<br>---------------------------------------------------------------------<br>支付宝直付通<br>– example.com/open/00faww<br>– 准入条件（以官方为准,以下仅供参考）<br>目前只针对满足以下条件的平台型商户定向开放，审核通过后可使用。<br>拥有实名认证的支付宝企业账号。<br>拥有主体一致的ICP许可证。<br>签约账号的主体必须与已上架（上线）的应用（APP/网站/小程序）归属主体保持一致（不支持不同主体间授权）。<br>说明：商家APP在应用市场已上架（上线），网站应用可以通过浏览器正常访问，小程序可以正常访问。<br>满足法律法规及监管规定的其它资质要求。<br>--------------------------------------------------------------------<br>微信收付通<br>– example.com/docs/partner/products/ecommerce/example.com<br>– 准入条件（以官方为准,以下仅供参考）<br>需要一个全新的、未填写子商户号的服务商商户号查看开通流程<br>注:如果旧的服务商未添加子商户也可以开通，已添加过子商户的不支持开通<br>需要具有主体一致的ICP许可证或EDI许可证<br>注:业务种类包含B21类“在线数据处理与交易处理业务”或B25类“信息服务业务”<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/1qphH" style="color: red;">https://mega-file.org/1qphH</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
